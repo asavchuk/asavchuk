@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asavchuk
+- 👋 Hi, I’m Andre
 - 👀 I’m interested in proframming, desing and painting
 - 🌱 I’m currently learning Flutter
 
