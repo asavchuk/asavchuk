@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asavchuk
 - 👀 I’m interested in proframming, desing and painting
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter
 
 <!---
 asavchuk/asavchuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
