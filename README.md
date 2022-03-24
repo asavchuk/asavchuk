@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Andre
-- 👀 I’m interested in programming, desing and painting
-- 🌱 I’m currently learning Flutter
+- Hi, I’m Andre. I live in a beautifull country. It's Ukraine. 
+- Russian ship, fuck you!
 
 <!---
 asavchuk/asavchuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
