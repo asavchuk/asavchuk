@@ -1,4 +1,4 @@
-- Hi, I’m Andre. I live in a beautifull country. It's Ukraine. 
+- Hi, I’m Andre. I live in Ukraine. 
 - Russian ship, fuck you!
 
 <!---
