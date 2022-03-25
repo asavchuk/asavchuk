@@ -1,5 +1,5 @@
-- Hi, I’m Andre. I live in Ukraine. 
-- Russian ship, fuck you.
+- Hi, I’m Andre. I live in 🇺🇦 
+- Russian ship, fuck you
 
 <!---
 asavchuk/asavchuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
